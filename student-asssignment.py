@@ -49,4 +49,4 @@ for i in range(0,total_students):
 	document.save(args.output_assignment_folder+"/"+roll+".docx")
 
 	
-convert(r"assignments")
+convert(args.output_assignment_folder)
