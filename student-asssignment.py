@@ -24,7 +24,7 @@ f=open(args.student_list_file,"r") # TXT file containing student names
 lines= f.readlines()
 f.close()
 
-f=open(args.student_roll_file,"r") # TXT file containing student names
+f=open(args.student_roll_file,"r") # TXT file containing roll numbers
 roll_nos=f.readlines()
 f.close()
 
