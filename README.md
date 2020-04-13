@@ -11,6 +11,8 @@
 ## Install
 
 ```sh
+git clone https://github.com/nikhilm19/Student-Assignment-Cloner.git
+cd Student-Assignment-Cloner
 sudo sh scripts/install.sh
 ```
 
