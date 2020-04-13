@@ -18,6 +18,7 @@ sudo sh scripts/install.sh
 
 Provide the required parameters viz 
 1) Student_List_File 
+2) Student_Roll_No_File
 2) Assignment Docx File
 3) Output Folder
 ```sh
